@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HPCarouselViewDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E6560A1B1C82CCFE00CBBE69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E6560A341C82CCFE00CBBE69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E6560A3F1C82CCFE00CBBE69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
