@@ -31,6 +31,7 @@
         //数组中也可以传图片的地址，NSString* 类型
         NSArray *imageArray = @[[UIImage imageNamed:@"11.jpg"],[UIImage imageNamed:@"22.jpg"],[UIImage imageNamed:@"33.jpg"],[UIImage imageNamed:@"44.jpg"],[UIImage imageNamed:@"55.jpg"]];
         self.carouselView = [[HPCarouselView alloc] initWithFrame:CGRectMake(0.0f, 20.0f, self.view.frame.size.width, 200.0f) ImageArray:imageArray];
+        _carouselView.delegate = self;
     }
     
     return _carouselView;
